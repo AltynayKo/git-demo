@@ -1,4 +1,3 @@
-
 I saw you dancing in a crowded room
 You look so happy when I'm not with you
 But then you saw me, caught you by surprise
@@ -6,9 +5,19 @@ A single teardrop falling from your eye
 
 I don't know why I run away
 I'll make you cry when I run away
+<<<<<<< HEAD
 
 You could've asked me why I broke your heart
 You could've told me that you fell apart
+<<<<<<< HEAD
+But you walked past me like I wasn't there
+And just pretended like you didn't care
 
-...
-...
+
+----
+
+....
+=======
+>>>>>>> ea88592278e49e2e89bec0853d9ad2265848befd
+=======
+>>>>>>> parent of ea88592 (added two more lines)
