@@ -10,6 +10,7 @@ I'll make you cry when I run away
 You could've asked me why I broke your heart
 You could've told me that you fell apart
 <<<<<<< HEAD
+<<<<<<< HEAD
 But you walked past me like I wasn't there
 And just pretended like you didn't care
 
@@ -21,3 +22,5 @@ And just pretended like you didn't care
 >>>>>>> ea88592278e49e2e89bec0853d9ad2265848befd
 =======
 >>>>>>> parent of ea88592 (added two more lines)
+=======
+>>>>>>> 90820db1a130f2232f02f71b28f173ee9603f2c8
